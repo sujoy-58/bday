@@ -109,14 +109,10 @@ var songsource = document.getElementById("songsource");
 
 var songstoplay = [
     "audio/song2.mp3",
-    "audio/song3.mp3",
-    "audio/song4.mp3",
     "audio/song5.mp3",
     "audio/song6.mp3",
-    "audio/song7.mp3",
     "audio/song8.mp3",
     "audio/song9.mp3",
-    "audio/song10.mp3",
     "audio/song11.mp3",
     "audio/song12.mp3",
     "audio/song13.mp3",
