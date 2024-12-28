@@ -108,8 +108,6 @@ var mysong = document.getElementById("mysong");
 var songsource = document.getElementById("songsource");
 
 var songstoplay = [
-    "/audio/sound1.mp3",
-    // "/audio/song1.mp3",
     "/audio/song2.mp3",
     "/audio/song3.mp3",
     "/audio/song4.mp3",
